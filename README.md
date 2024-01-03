@@ -25,6 +25,7 @@ Feel free to explore the full project on [GitHub](https://github.com/lolopss/fra
 
 - [LinkedIn](https://www.linkedin.com/in/logan-daniel-08b662259/)
 - Email: ldaniel@student.42lehavre.fr
+- [42Profile](https://profile.intra.42.fr/users/ldaniel) 
 
 ## 👾 Interests
 
