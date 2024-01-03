@@ -4,7 +4,7 @@ I'm a student at 42 LeHavre, passionate about coding, and always eager to learn 
 
 ## 🚀 Projects
 
-One of my favorite projects is **Fractol**, where I ventured into the mesmerizing realm of fractals. I drew Mandelbrot and some of Julia's sets. Check out some snapshots of the mandelbrot fractal below:
+One of my favorite projects is **Fractol**. I drew Mandelbrot and some of Julia's sets in C, using minilibx. Check out some snapshots of the mandelbrot fractal below:
 
 
 <div align="center">
