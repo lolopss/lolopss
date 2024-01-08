@@ -29,6 +29,6 @@ Feel free to explore the full project on [GitHub](https://github.com/lolopss/fra
 
 ## 👾 Interests
 
-In my free time, you'll find me diving into video games or getting active with sports, especially gym workouts and bouldering.
+In my free time, you'll find me playing video games or getting active with sports, especially gym workouts and bouldering.
 
-Feel free to reach out if you have any questions, want to collaborate, or just chat about coding, fractals, games, or anything else!
+Feel free to reach out if you have any questions, or just chat about coding, fractals, games, or anything else!
