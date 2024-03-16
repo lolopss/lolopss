@@ -19,7 +19,6 @@ Feel free to explore the full project on [GitHub](https://github.com/lolopss/fra
 
 - C
 - C++
-- Python
 
 ## 🌐 Connect with me
 
