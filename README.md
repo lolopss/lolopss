@@ -16,9 +16,7 @@ One of my favorite projects is **Fractol**. I drew Mandelbrot and some of Julia'
 Feel free to explore the full project on [GitHub](https://github.com/lolopss/fractol).
 
 ## 🔧 Skills
-
-- C
-- C++
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,django,docker,react,js,html,css)](https://skillicons.dev)
 
 ## 🌐 Connect with me
 
